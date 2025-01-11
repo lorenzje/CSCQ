@@ -1,0 +1,11 @@
+﻿  CMain.cpp
+  CNode.cpp
+C:\Users\jackl\OneDrive\Documents\Cincinnati State\SET 252\CStackCQueueJL\CStackCQueueJL\CNode.cpp(5,13): error C2011: 'CNode': 'class' type redefinition
+C:\Users\jackl\OneDrive\Documents\Cincinnati State\SET 252\CStackCQueueJL\CStackCQueueJL\CNode.h(5): message : see declaration of 'CNode'
+  CQueue.cpp
+C:\Users\jackl\OneDrive\Documents\Cincinnati State\SET 252\CStackCQueueJL\CStackCQueueJL\CQueue.cpp(6,1): error C2011: 'CQueue': 'class' type redefinition
+C:\Users\jackl\OneDrive\Documents\Cincinnati State\SET 252\CStackCQueueJL\CStackCQueueJL\CQueue.h(7): message : see declaration of 'CQueue'
+  CStack.cpp
+C:\Users\jackl\OneDrive\Documents\Cincinnati State\SET 252\CStackCQueueJL\CStackCQueueJL\CStack.cpp(6,1): error C2011: 'CStack': 'class' type redefinition
+C:\Users\jackl\OneDrive\Documents\Cincinnati State\SET 252\CStackCQueueJL\CStackCQueueJL\CStack.h(7): message : see declaration of 'CStack'
+  Generating Code...
